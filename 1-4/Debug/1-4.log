@@ -1,0 +1,4 @@
+﻿  1-4.cpp
+  1-4.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  1-4.vcxproj -> C:\Users\Kcomt\Documents\Visual Studio 2015\Projects\Trabajo Final 2\Debug\1-4.exe
+  1-4.vcxproj -> C:\Users\Kcomt\Documents\Visual Studio 2015\Projects\Trabajo Final 2\Debug\1-4.pdb (Partial PDB)
